@@ -1,0 +1,21 @@
+Dismantle the bomb:
+
+p1: // input size
+Border relations with Canada have never been better.
+
+p2: // for loop
+1 2 4 8 16 32
+
+p3: // sscanf()
+1 311
+
+p4:
+7 0
+
+p5: // check values around 0x4024b0, and the masked values by &0xFF
+ionuvw
+yonuvw
+
+p6:
+
+ 
