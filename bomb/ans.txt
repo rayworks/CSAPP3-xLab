@@ -16,6 +16,10 @@ p5: // check values around 0x4024b0, and the masked values by &0xFF
 ionuvw
 yonuvw
 
-p6:
+p6: 
+// 0 < A[n] <= 6 && A[n] contains no duplicate elements 
+// && with the transformation : A[n] = 7 - A[n]
+// && values should decrease as address 0x6032d0 extends to the higher address.
+4 3 2 1 6 5
 
  
